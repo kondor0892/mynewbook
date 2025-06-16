@@ -3,6 +3,7 @@
 
 format: jb-book
 root: intro
+numbered: true
 chapters:
 - file: markdown
 - file: notebooks
